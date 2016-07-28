@@ -1,0 +1,67 @@
+﻿Сборка начата 11.06.2016 19:14:32.
+     1>Проект "C:\Users\Anonim\documents\visual studio 2013\Projects\Win32Project3\Win32Project3\Win32Project3.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W2 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt -I"c:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include" Mob.cpp Win32Project3.cpp
+         Win32Project3.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\inputsystem.h(106): warning C4244: =: преобразование "float" в "long", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\inputsystem.h(108): warning C4244: =: преобразование "long" в "float", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\inputsystem.h(110): warning C4244: =: преобразование "float" в "long", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\inputsystem.h(112): warning C4244: =: преобразование "long" в "float", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\inputsystem.h(153): warning C4244: =: преобразование "float" в "long", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\inputsystem.h(155): warning C4244: =: преобразование "long" в "float", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\inputsystem.h(157): warning C4244: =: преобразование "float" в "long", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\inputsystem.h(159): warning C4244: =: преобразование "long" в "float", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(220): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(245): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(252): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(258): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(267): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(265): пропуск определения "i"
+                 c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(241): используется определение "i"
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(267): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(311): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(317): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(323): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(332): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(330): пропуск определения "i"
+                 c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(297): используется определение "i"
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(332): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(367): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(374): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(380): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(389): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(387): пропуск определения "i"
+                 c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(363): используется определение "i"
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(389): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(477): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(481): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\win32project3.cpp(485): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+         Mob.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\anonim\documents\visual studio 2013\projects\win32project3\win32project3\mob.cpp(59): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Anonim\documents\visual studio 2013\Projects\Win32Project3\Debug\Win32Project3.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft DirectX SDK (August 2007)\Lib\x86" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Anonim\documents\visual studio 2013\Projects\Win32Project3\Debug\Win32Project3.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Anonim\documents\visual studio 2013\Projects\Win32Project3\Debug\Win32Project3.lib" /MACHINE:X86 Debug\Win32Project3.res
+         Debug\ActionsBoard.obj
+         Debug\AnimBoard.obj
+         Debug\Board.obj
+         Debug\ImageBasis.obj
+         Debug\includer.obj
+         Debug\Mob.obj
+         Debug\MovementBoard.obj
+         Debug\NPC.obj
+         Debug\personState.obj
+         Debug\simpleFont.obj
+         Debug\Sprites.obj
+         Debug\staticBoard.obj
+         Debug\stdafx.obj
+         Debug\Win32Project3.obj
+         Debug\simpleLandscape.obj
+         Debug\Hero.obj
+         Win32Project3.vcxproj -> C:\Users\Anonim\documents\visual studio 2013\Projects\Win32Project3\Debug\Win32Project3.exe
+     1>Сборка проекта "C:\Users\Anonim\documents\visual studio 2013\Projects\Win32Project3\Win32Project3\Win32Project3.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:05.90

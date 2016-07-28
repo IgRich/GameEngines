@@ -1,0 +1,16 @@
+9
+image/staticObject/zabor_door.png		500 120 15 	1 1 1 800 	450		
+image/staticObject/zaborContDoor.png	100 120 15	1 1 1 1100 	450	
+image/Plants/Tree/130_250.png			100	210 80	1 1 1 800	2000	
+image/Plants/Tree/160_250.png			100 220 80	1 1 1 890	2000
+image/Plants/Tree/161_250.png			100	230 80	1 1 1 980	2000
+image/Plants/Tree/183_250.png			110 200 80	1 1 1 1060	2000
+image/Plants/Tree/250_231.png			150 180 80	1 1 1 1170	2000
+image/Plants/Tree/250_231_2.png			130 120 80	1 1 1 1260	2000
+image/Plants/Tree/473_542.png			150 190 120	1 1 1 1350	2000	
+
+файл 
+ширина и высота, глубина картонки
+число текстур, столбцов, строк
+мировая матрица(x,z)
+
